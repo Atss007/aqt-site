@@ -75,7 +75,7 @@ const quickLinks = [
   ["Home", "/"],
   ["About", "/about-us"],
   ["Services", "/services"],
-  ["Projects", "/projects"],
+  ["Projects", "/portfolio"],
   ["Contact", "/contact-us"],
 ];
 
