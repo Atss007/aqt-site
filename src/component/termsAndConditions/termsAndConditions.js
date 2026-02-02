@@ -256,7 +256,7 @@ export default function TermsAndConditions() {
                                         <li>In any way that violates any applicable federal, state, local, or international law or regulation</li>
                                         <li>To transmit, or procure the sending of, any advertising or promotional material without our prior written consent</li>
                                         <li>To impersonate or attempt to impersonate the Company, a Company employee, another user, or any other person or entity</li>
-                                        <li>To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Service</li>
+                                        <li>To engage in any other conduct that restricts or inhibits anyone&apos;s use or enjoyment of the Service</li>
                                         <li>To use any automated system, including "robots," "spiders," or "offline readers," to access the Service</li>
                                         <li>To introduce any viruses, trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful</li>
                                     </ul>
@@ -279,7 +279,7 @@ export default function TermsAndConditions() {
                                         <li>You are responsible for safeguarding the password you use to access the Service</li>
                                         <li>You agree not to disclose your password to any third party</li>
                                         <li>You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account</li>
-                                        <li>You may not use another user's account without permission</li>
+                                        <li>You may not use another user&apos;s account without permission</li>
                                         <li>You are responsible for all activities that occur under your account</li>
                                     </ul>
                                     <h4 className="font-bold text-slate-900 mb-3">Account Termination:</h4>

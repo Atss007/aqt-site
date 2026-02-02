@@ -170,7 +170,7 @@ export default function ContactUs() {
               <span className="text-teal-300 font-medium">Trusted by 500+ Companies</span>
             </motion.div>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-              Let's Discuss
+              Let&apos;s Discuss
               <br />
               <span className="bg-gradient-to-r from-teal-400 to-blue-400 bg-clip-text text-transparent">
                 Your Project
@@ -305,7 +305,7 @@ export default function ContactUs() {
                       <div>
                         <p className="text-green-900 font-semibold text-sm">Message sent successfully!</p>
                         <p className="text-green-700 text-sm mt-1">
-                          We've received your inquiry and will respond within 24 hours.
+                          We&apos;ve received your inquiry and will respond within 24 hours.
                         </p>
                       </div>
                     </motion.div>
@@ -1026,7 +1026,7 @@ export default function ContactUs() {
               Visit Our Office
             </h2>
             <p className="text-slate-600 text-lg">
-              We're always happy to meet in person
+              We&apos;re always happy to meet in person
             </p>
           </motion.div>
 

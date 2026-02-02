@@ -338,7 +338,7 @@ export default function AboutUs() {
                         </motion.div>
 
                         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-                            Building Tomorrow's
+                            Building Tomorrow&apos;s
                             <br />
                             <span className="bg-gradient-to-r from-teal-400 to-blue-400 bg-clip-text text-transparent">
                                 Digital Solutions
@@ -346,7 +346,7 @@ export default function AboutUs() {
                         </h1>
 
                         <p className="text-xl md:text-2xl text-slate-300 max-w-4xl mx-auto mb-12 leading-relaxed">
-                            We're a team of innovators, designers, and developers passionate about creating
+                            We&apos;re a team of innovators, designers, and developers passionate about creating
                             cutting-edge technology solutions that drive real business results.
                         </p>
 
@@ -555,55 +555,7 @@ export default function AboutUs() {
                     </motion.div>
                 </div>
             </section>
-
-            {/* Technologies Section */}
             <TechnologyStackMarquee />
-
-            {/* CTA Section */}
-            {/* <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gray-900">
-                <div className="max-w-4xl mx-auto text-center">
-                    <motion.div
-                        initial={{ opacity: 0, scale: 0.9 }}
-                        whileInView={{ opacity: 1, scale: 1 }}
-                        viewport={{ once: true }}
-                        className="bg-white rounded-2xl shadow-xl p-12 border border-blue-300"
-                    >
-                        <Users className="w-16 h-16 text-teal-500 mx-auto mb-6" />
-                        <h2 className="text-4xl font-bold text-slate-900 mb-4">
-                            Ready to Work Together?
-                        </h2>
-                        <p className="text-xl text-slate-600 mb-8">
-                            Let's discuss how we can help transform your business with technology
-                        </p>
-                        <div className="flex flex-wrap justify-center gap-4">
-                            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                                <Link
-                                    href="/about-you"
-                                    className="cursor-pointer px-8 py-4 bg-gradient-to-r from-teal-500 to-blue-500 text-white font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-2 inline-flex"
-                                >
-                                    Get in Touch
-                                    <ArrowRight size={20} />
-                                </Link>
-                            </motion.div>
-
-                            <motion.div
-                                whileHover={{ scale: 1.05 }}
-                                whileTap={{ scale: 0.95 }}
-                            >
-                                <Link
-                                    href="/portfolio"
-                                    className="cursor-pointer px-8 py-4 border-2 border-slate-300 text-slate-700 font-semibold rounded-full hover:border-teal-500 hover:text-teal-500 transition-all duration-300 flex items-center gap-2 inline-flex group"
-                                >
-                                    View Our Work
-                                    <ArrowRight size={20} className="transition-transform duration-300 group-hover:translate-x-1" />
-                                </Link>
-                            </motion.div>
-
-                        </div>
-                    </motion.div>
-                </div>
-            </section> */}
-
             <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gray-900 overflow-hidden">
                 {/* Decorative gradient glow */}
                 <div className="absolute inset-0 flex justify-center pointer-events-none">
@@ -624,7 +576,7 @@ export default function AboutUs() {
                             Ready to Transform Your Digital Future?
                         </h2>
                         <p className="text-lg sm:text-xl text-gray-300 max-w-2xl mx-auto mb-12">
-                            Whether you're starting a new project or scaling an existing one,
+                            Whether you&apos;re starting a new project or scaling an existing one,
                             our team is ready to deliver innovation, precision, and measurable success.
                         </p>
 

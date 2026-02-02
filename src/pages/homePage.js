@@ -1,5 +1,3 @@
-"use client";
-
 import AboutSection from "@/component/about/about";
 import DiscussRequirement from "@/component/discuss/discussSection";
 import FAQSection from "@/component/faq/faqSection";
