@@ -90,7 +90,7 @@ export default function AboutSection() {
             At <strong>Atlanta Quantum Tech Pvt Ltd</strong>, we empower businesses with cutting-edge solutions in {services.map((s, i) => <span key={i}><strong>{s}</strong>{i < 3 && ", "}</span>)}.
             <br /><br />We combine innovation with precision to deliver measurable results for clients worldwide.
           </p>
-          <Link href="/about" className={`inline-block px-8 py-3 ${gradient} text-white font-semibold rounded-full shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-200`}>
+          <Link href="/about-us" className={`inline-block px-8 py-3 ${gradient} text-white font-semibold rounded-full shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-200`}>
             Learn More
           </Link>
         </div>

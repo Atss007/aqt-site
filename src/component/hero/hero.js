@@ -112,7 +112,7 @@ export default function Hero() {
           className="flex justify-center flex-wrap gap-4"
         >
           <Link
-            href="/contact"
+            href="/contact-us"
             className="inline-block px-6 py-3 bg-gradient-to-r from-teal-400 to-blue-500 text-white font-semibold rounded-xl shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:from-blue-500 hover:to-teal-400"
           >
             Get in Touch

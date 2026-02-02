@@ -176,7 +176,7 @@ export default function TestimonialsPage() {
                   ))}
                 </div>
                 <Link
-                  href="/about-you"
+                  href="#"
                   className="inline-flex items-center gap-2 text-sm font-semibold text-teal-700 hover:text-teal-900"
                 >
                   Share your experience
@@ -333,7 +333,7 @@ export default function TestimonialsPage() {
 
             <div className="flex flex-wrap justify-center gap-4">
               <Link
-                href="/about-you"
+                href="#"
                 className="px-7 py-3 bg-gradient-to-r from-teal-500 to-blue-500 text-white font-semibold rounded-full shadow-xl hover:shadow-2xl transition-all duration-300 inline-flex items-center gap-2"
               >
                 Start a project

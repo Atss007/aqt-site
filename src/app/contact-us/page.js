@@ -8,7 +8,7 @@ import ContactUsPage from "@/pages/contactPage";
 import Script from "next/script";
 
 const SITE_URL = "https://www.atlantaquantumtech.com";
-const PAGE_URL = `${SITE_URL}/contact`;
+const PAGE_URL = `${SITE_URL}/contact-us`;
 
 export const metadata = {
   title: "Contact Us | Atlanta Quantum Tech",

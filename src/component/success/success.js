@@ -114,7 +114,7 @@ export default function SuccessSection() {
 
       {/* CTA Button */}
       <div className="mt-12 text-center">
-        <Link href="/contact" className="inline-block px-6 py-3 rounded-lg bg-orange-500 text-white font-semibold text-lg hover:bg-orange-600 transition-all duration-300 shadow-md hover:shadow-lg">
+        <Link href="/contact-us" className="inline-block px-6 py-3 rounded-lg bg-orange-500 text-white font-semibold text-lg hover:bg-orange-600 transition-all duration-300 shadow-md hover:shadow-lg">
           Get in Touch
         </Link>
       </div>

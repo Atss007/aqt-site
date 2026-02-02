@@ -584,7 +584,7 @@ export default function AboutUs() {
                             {/* Primary Button */}
                             <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                                 <Link
-                                    href="/about-you"
+                                    href="/contact-us"
                                     className="px-8 py-4 bg-gradient-to-r from-teal-500 to-blue-500 text-white font-semibold rounded-full shadow-xl hover:shadow-2xl transition-all duration-300 flex items-center gap-2 inline-flex"
                                 >
                                     Get in Touch

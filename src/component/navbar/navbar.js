@@ -297,25 +297,25 @@ const menuData = {
     { 
       title: "Design & Development", 
       items: [
-        { name: "Web Development", href: "/services#web" },
-        { name: "App Development", href: "/services#mobile" },
-        { name: "E-commerce", href: "/services#ecommerce" },
-        { name: "Software Development", href: "/services#software" },
-        { name: "API Development", href: "/services#api" }
+        { name: "Web Development", href: "s#web" },
+        { name: "App Development", href: "s#mobile" },
+        { name: "E-commerce", href: "s#ecommerce" },
+        { name: "Software Development", href: "s#software" },
+        { name: "API Development", href: "s#api" }
       ]
     },
     { 
       title: "Support Services", 
       items: [
-        { name: "Hosting & Server Support", href: "/services#hosting" },
-        { name: "Development Assistance", href: "/services#support" }
+        { name: "Hosting & Server Support", href: "s#hosting" },
+        { name: "Development Assistance", href: "s#support" }
       ]
     },
     { 
       title: "Digital Marketing", 
       items: [
-        { name: "SEO & Social Media", href: "/services#marketing" },
-        { name: "Performance Optimization", href: "/services#optimization" }
+        { name: "SEO & Social Media", href: "s#marketing" },
+        { name: "Performance Optimization", href: "s#optimization" }
       ]
     },
   ],
@@ -485,7 +485,7 @@ export default function Navbar() {
     { 
       title: "Services", 
       content: renderGrid(menuData.Services),
-      href: "/services"
+      href: "s"
     },
     { 
       title: "Technologies", 

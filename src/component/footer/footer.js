@@ -73,10 +73,10 @@ import Link from "next/link";
 // Data arrays for easy maintenance
 const quickLinks = [
   ["Home", "/"],
-  ["About", "/about"],
+  ["About", "/about-us"],
   ["Services", "/services"],
   ["Projects", "/projects"],
-  ["Contact", "/contact"],
+  ["Contact", "/contact-us"],
 ];
 
 const contactInfo = [
@@ -131,7 +131,7 @@ export default function Footer() {
               ))}
             </ul>
             <Link
-              href="/contact"
+              href="/contact-us"
               className="inline-block mt-5 px-5 py-2.5 bg-gradient-to-r from-teal-400 to-blue-500 text-white text-sm font-semibold rounded-full shadow-lg hover:scale-105 transition-all"
             >
               Get in Touch

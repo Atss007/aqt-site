@@ -605,7 +605,7 @@ const JobCard = ({ job, index }) => (
         problems with technology.
       </p>
       <Link
-        href="/about-you"
+        href="#"
         className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-teal-500 to-blue-500 text-white text-sm font-semibold shadow hover:shadow-lg transition-all duration-300"
       >
         Apply Now
@@ -903,14 +903,14 @@ export default function CareersPage() {
 
             <div className="flex flex-wrap justify-center gap-4">
               <Link
-                href="/about-you"
+                href="#"
                 className="px-7 py-3 bg-gradient-to-r from-teal-500 to-blue-500 text-white font-semibold rounded-full shadow-xl hover:shadow-2xl transition-all duration-300 inline-flex items-center gap-2"
               >
                 Share your profile
                 <ArrowRight size={18} />
               </Link>
               <Link
-                href="/contact"
+                href="/contact-us"
                 className="px-7 py-3 border border-white/30 text-white font-semibold rounded-full hover:border-teal-400 hover:text-teal-300 transition-all duration-300 inline-flex items-center gap-2"
               >
                 Talk to our team
